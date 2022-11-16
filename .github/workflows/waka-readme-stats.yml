@@ -30,6 +30,6 @@ jobs:
           COMMIT_BY_ME: False
           COMMIT_MESSAGE: Updated with Dev Metrics
           SHOW_UPDATED_DATE: True
-          UPDATED_DATE_FORMAT: %d/%m/%Y %H:%M:%S
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           SHOW_TOTAL_CODE_TIME: True
           SYMBOL_VERSION: 1
