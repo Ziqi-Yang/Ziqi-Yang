@@ -17,7 +17,7 @@
 </a>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ziqi-Yang&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ziqi-Yang&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2024%20mins-blue)
