@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,js,sass,py,godot,flutter,linux,emacs" />
+  <img src="https://skillicons.dev/icons?i=c,py,flutter,go,java,js,linux,emacs" />
 </p>
 
 <a href="https://github.com/Ziqi-Yang?tab=repositories">
