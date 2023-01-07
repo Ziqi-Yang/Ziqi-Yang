@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>欢迎光临喵~/Welcome, meow~👋</h1>
+  <h1>Welcome, Meow~👋</h1>
   <p>Ciallo～(∠・ω< )⌒★</p>
 </div>
 
@@ -10,14 +10,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,py,flutter,go,java,js,linux,emacs" />
 </p>
-
-<a href="https://github.com/Ziqi-Yang?tab=repositories">
-   <img height="165" width="400" src="https://github-readme-stats.vercel.app/api?username=Ziqi-Yang&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img height="165" width="400" src="https://svg-banners.vercel.app/api?type=luminance&text1=Be%20Fantastic🌞&width=400&height=165" />
-</a>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ziqi-Yang&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ziqi-Yang&show_icons=true&include_all_commits=true&hide_border=true" />
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2044%20mins-blue)
@@ -87,3 +82,6 @@ Linux                    37 hrs 56 mins      ███████████�
 
  Last Updated on 06/01/2023 18:37:51 UTC
 <!--END_SECTION:waka-->
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ziqi-Yang&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
