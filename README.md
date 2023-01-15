@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=c,py,flutter,go,java,js,linux,emacs" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ziqi-Yang&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Ziqi-Yang&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
 
 <!--START_SECTION:waka-->
