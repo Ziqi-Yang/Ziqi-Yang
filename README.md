@@ -14,6 +14,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ziqi-Yang&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
 
+$$
+\color{pink}\fbox{\textbf{\textsf{READ IF CUTE}}}
+$$
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2057%20mins-blue)
 
