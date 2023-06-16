@@ -82,5 +82,26 @@ Linux                    46 hrs 46 mins      ███████████�
  Last Updated on 15/06/2023 18:33:59 UTC
 <!--END_SECTION:waka-->
 
+-----
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ziqi-Yang&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+If you really want to know my email address, please receive my public GPG key or download any of my projects hosted on GitHub. Then you can find it. 
+```bash
+gpg --keyserver hkps://keyserver.ubuntu.com --receive-keys 0x934ae9b6b6e9ff34
+```
+If you want to know my other social accounts, please
+1) decrypt this string
+```
+LS0tLS1CRUdJTiBQR1AgTUVTU0FHRS0tLS0tCgpqQTBFQ1FNS2V2OHAzYTVBamFULzBzQWVBV0d1
+Ym8vVDM1VFpuRFlrRHI1Q1k5WHZudUx5ejRacllUaGlyUmoyCnZPOERrT1Rpemc0K1lUbFJzQnFX
+L2hxbE5wa1pXckpYMWVsNmhka1Uza2l2QWMrdUxvVlYvVERBTXUvRitybmsKenAwQmpYd0RuL1g0
+dmIveVNyYnY2VENGYkV2V2kvMnlNTlJnaWY5eE8rWnJwYWJ5MThhbDFoRXZWNFdkUlY3OApWa2dD
+SklIeHQ0THZpQ1NEQklMYVhmLzM4VGxEUDBrVzk5bXdyeTY4V1NmT3B3K0tOK2hiNlB3TVNmNmVB
+Y0xFCnFYTlprUy8vUERUOUNCUW5UamMvYmkvdjVCQmx0VGkzS1ZDM3hhTEFRVStkeUorSmgzMk1h
+blJUc28yU1E2ZVAKPXA3OXkKLS0tLS1FTkQgUEdQIE1FU1NBR0UtLS0tLQo=
+```
+2) use the fingerprint of my public GPG key to decrypt the original text of the string in the first step using this command
+```bash
+echo <original_text_in_step_1> | gpg --decrypt --pinentry-mode loopback --armor
+```
+
+
