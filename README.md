@@ -90,11 +90,11 @@ Linux                    39 hrs 31 mins      ███████████�
 
 -----
 
-If you really want to know my email address, please receive my public GPG key or download any of my projects hosted on GitHub. Then you can find it. 
+To get my email address, please receive my public GPG key.
 ```bash
 gpg --keyserver hkps://keyserver.ubuntu.com --receive-keys 0x934ae9b6b6e9ff34
 ```
-If you want to know my other social accounts, please
+To know my other social accounts, please
 1) decrypt this string
 ```
 LS0tLS1CRUdJTiBQR1AgTUVTU0FHRS0tLS0tCgpqQTBFQ1FNS200dWR6QVozM0JYLzBrd0JNU0Ru
